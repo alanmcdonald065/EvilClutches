@@ -1,0 +1,1 @@
+This is the first project from the book Game Maker's Apprentice. The first commit is as it was written in the book. It functional, but not very robust. I plan on spending some more time on it, at some point.
